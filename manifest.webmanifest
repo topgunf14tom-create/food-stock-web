@@ -1,0 +1,11 @@
+{
+  "name": "食品管理",
+  "short_name": "食品管理",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f0",
+  "theme_color": "#2e7d32",
+  "lang": "ja",
+  "icons": [ { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" } ]
+}

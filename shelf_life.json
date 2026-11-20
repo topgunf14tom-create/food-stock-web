@@ -1,0 +1,489 @@
+{
+  "default": {
+    "storage": "fridge",
+    "fridge": 5,
+    "freezer": 30,
+    "pantry": 90,
+    "opened": null
+  },
+  "entries": [
+    {
+      "keys": [
+        "鶏むね",
+        "鶏もも",
+        "ささみ",
+        "手羽",
+        "鶏肉",
+        "若鶏",
+        "鶏"
+      ],
+      "storage": "fridge",
+      "fridge": 2,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "豚こま",
+        "豚バラ",
+        "豚ロース",
+        "豚肩",
+        "豚肉",
+        "豚"
+      ],
+      "storage": "fridge",
+      "fridge": 3,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "牛こま",
+        "牛バラ",
+        "牛ロース",
+        "牛肩",
+        "牛肉",
+        "ステーキ"
+      ],
+      "storage": "fridge",
+      "fridge": 3,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "ひき肉",
+        "挽肉",
+        "ミンチ",
+        "牛ひき",
+        "豚ひき",
+        "鶏ひき",
+        "合挽"
+      ],
+      "storage": "fridge",
+      "fridge": 1,
+      "freezer": 21
+    },
+    {
+      "keys": [
+        "ハム",
+        "ベーコン",
+        "ウインナー",
+        "ウィンナー",
+        "ソーセージ"
+      ],
+      "storage": "fridge",
+      "fridge": 7,
+      "freezer": 30,
+      "opened": 3
+    },
+    {
+      "keys": [
+        "刺身",
+        "さしみ",
+        "まぐろ",
+        "サーモン刺",
+        "たこ刺"
+      ],
+      "storage": "fridge",
+      "fridge": 1,
+      "freezer": 14
+    },
+    {
+      "keys": [
+        "鮭",
+        "さけ",
+        "サバ",
+        "さば",
+        "あじ",
+        "いわし",
+        "ぶり",
+        "たら",
+        "魚",
+        "切身"
+      ],
+      "storage": "fridge",
+      "fridge": 2,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "えび",
+        "エビ",
+        "いか",
+        "イカ",
+        "あさり",
+        "しじみ"
+      ],
+      "storage": "fridge",
+      "fridge": 1,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "卵",
+        "たまご",
+        "玉子"
+      ],
+      "storage": "fridge",
+      "fridge": 14,
+      "freezer": null
+    },
+    {
+      "keys": [
+        "牛乳",
+        "ミルク",
+        "低脂肪乳"
+      ],
+      "storage": "fridge",
+      "fridge": 7,
+      "freezer": null,
+      "opened": 3
+    },
+    {
+      "keys": [
+        "ヨーグルト"
+      ],
+      "storage": "fridge",
+      "fridge": 14,
+      "freezer": null,
+      "opened": 3
+    },
+    {
+      "keys": [
+        "チーズ"
+      ],
+      "storage": "fridge",
+      "fridge": 30,
+      "freezer": 60,
+      "opened": 7
+    },
+    {
+      "keys": [
+        "バター"
+      ],
+      "storage": "fridge",
+      "fridge": 90,
+      "freezer": 180,
+      "opened": 30
+    },
+    {
+      "keys": [
+        "生クリーム"
+      ],
+      "storage": "fridge",
+      "fridge": 7,
+      "freezer": null,
+      "opened": 2
+    },
+    {
+      "keys": [
+        "豆腐",
+        "とうふ"
+      ],
+      "storage": "fridge",
+      "fridge": 5,
+      "freezer": 30,
+      "opened": 1
+    },
+    {
+      "keys": [
+        "納豆"
+      ],
+      "storage": "fridge",
+      "fridge": 10,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "油揚",
+        "厚揚"
+      ],
+      "storage": "fridge",
+      "fridge": 4,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "ほうれん草",
+        "小松菜",
+        "水菜",
+        "春菊",
+        "ニラ",
+        "レタス",
+        "サラダ",
+        "ベビーリーフ",
+        "もやし"
+      ],
+      "storage": "fridge",
+      "fridge": 3,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "キャベツ",
+        "白菜",
+        "ブロッコリー",
+        "ピーマン",
+        "なす",
+        "ナス",
+        "トマト",
+        "きゅうり",
+        "胡瓜",
+        "ズッキーニ",
+        "長ねぎ",
+        "ねぎ",
+        "しめじ",
+        "えのき",
+        "舞茸",
+        "まいたけ",
+        "しいたけ",
+        "椎茸",
+        "きのこ"
+      ],
+      "storage": "fridge",
+      "fridge": 5,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "にんじん",
+        "人参",
+        "大根",
+        "ごぼう",
+        "れんこん"
+      ],
+      "storage": "fridge",
+      "fridge": 14,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "玉ねぎ",
+        "たまねぎ",
+        "玉葱",
+        "じゃがいも",
+        "じゃが芋",
+        "さつまいも",
+        "かぼちゃ",
+        "にんにく",
+        "しょうが",
+        "生姜"
+      ],
+      "storage": "pantry",
+      "fridge": 30,
+      "freezer": 30,
+      "pantry": 60
+    },
+    {
+      "keys": [
+        "りんご",
+        "みかん",
+        "柿",
+        "梨"
+      ],
+      "storage": "fridge",
+      "fridge": 14,
+      "freezer": null,
+      "pantry": 7
+    },
+    {
+      "keys": [
+        "バナナ"
+      ],
+      "storage": "pantry",
+      "fridge": 7,
+      "freezer": 30,
+      "pantry": 4
+    },
+    {
+      "keys": [
+        "いちご",
+        "ぶどう",
+        "桃",
+        "キウイ",
+        "果物"
+      ],
+      "storage": "fridge",
+      "fridge": 3,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "食パン",
+        "パン",
+        "ベーグル",
+        "ロール"
+      ],
+      "storage": "pantry",
+      "fridge": 7,
+      "freezer": 30,
+      "pantry": 4
+    },
+    {
+      "keys": [
+        "うどん",
+        "そば",
+        "焼そば",
+        "焼きそば",
+        "ラーメン",
+        "生麺",
+        "中華麺"
+      ],
+      "storage": "fridge",
+      "fridge": 7,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "パスタ",
+        "スパゲッティ",
+        "乾麺",
+        "そうめん"
+      ],
+      "storage": "pantry",
+      "fridge": 365,
+      "freezer": null,
+      "pantry": 365
+    },
+    {
+      "keys": [
+        "米",
+        "こめ"
+      ],
+      "storage": "pantry",
+      "fridge": 90,
+      "freezer": null,
+      "pantry": 90
+    },
+    {
+      "keys": [
+        "弁当",
+        "おにぎり",
+        "惣菜",
+        "総菜",
+        "サンド"
+      ],
+      "storage": "fridge",
+      "fridge": 1,
+      "freezer": 14
+    },
+    {
+      "keys": [
+        "作り置き",
+        "残り物",
+        "カレー",
+        "シチュー"
+      ],
+      "storage": "fridge",
+      "fridge": 3,
+      "freezer": 30
+    },
+    {
+      "keys": [
+        "冷凍",
+        "アイス"
+      ],
+      "storage": "freezer",
+      "fridge": 1,
+      "freezer": 90
+    },
+    {
+      "keys": [
+        "マヨネーズ",
+        "ケチャップ",
+        "ドレッシング",
+        "ポン酢",
+        "めんつゆ",
+        "焼肉のたれ",
+        "ソース"
+      ],
+      "storage": "fridge",
+      "fridge": 180,
+      "freezer": null,
+      "pantry": 180,
+      "opened": 30
+    },
+    {
+      "keys": [
+        "味噌",
+        "みそ"
+      ],
+      "storage": "fridge",
+      "fridge": 90,
+      "freezer": 180,
+      "opened": 60
+    },
+    {
+      "keys": [
+        "サラダ油",
+        "醤油",
+        "しょうゆ",
+        "みりん",
+        "酢",
+        "料理酒",
+        "油",
+        "砂糖",
+        "塩",
+        "こしょう"
+      ],
+      "storage": "pantry",
+      "fridge": 365,
+      "freezer": null,
+      "pantry": 365,
+      "opened": 90
+    },
+    {
+      "keys": [
+        "キムチ",
+        "漬物",
+        "つけもの"
+      ],
+      "storage": "fridge",
+      "fridge": 14,
+      "freezer": null,
+      "opened": 7
+    },
+    {
+      "keys": [
+        "ジュース",
+        "お茶"
+      ],
+      "storage": "fridge",
+      "fridge": 30,
+      "freezer": null,
+      "pantry": 90,
+      "opened": 3
+    },
+    {
+      "keys": [
+        "缶詰",
+        "レトルト"
+      ],
+      "storage": "pantry",
+      "fridge": 365,
+      "freezer": null,
+      "pantry": 365,
+      "opened": 2
+    },
+    {
+      "keys": [
+        "こんにゃく",
+        "ちくわ",
+        "かまぼこ",
+        "はんぺん"
+      ],
+      "storage": "fridge",
+      "fridge": 7,
+      "freezer": 30,
+      "opened": 2
+    },
+    {
+      "keys": [
+        "餃子",
+        "ぎょうざ",
+        "シューマイ"
+      ],
+      "storage": "fridge",
+      "fridge": 2,
+      "freezer": 30
+    }
+  ]
+}
